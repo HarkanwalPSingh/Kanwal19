@@ -1,5 +1,13 @@
-### Hi there 👋
+Hi 👋,
+My name is Kanwal
 
+🌱 Welcome to my code space
+
+🤔 I work on all sorts of things that peeks my interest
+
+😄 My main motive is to create those cool github projects that are actually useful to people
+
+📫 How to reach me: hkps17@gmail.com
 <!--
 **Kanwal19/Kanwal19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
