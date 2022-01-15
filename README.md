@@ -5,7 +5,7 @@ My name is Kanwal
 
 🤔 I work on all sorts of things that peeks my interest
 
-😄 My main motive is to create those cool github projects that are actually useful to people
+😄 I wish to create those cool github projects that are useful to people
 
 📫 How to reach me: hkps17@gmail.com
 <!--
