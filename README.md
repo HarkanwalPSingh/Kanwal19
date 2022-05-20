@@ -7,7 +7,7 @@ My name is Kanwal
 
 😄 I wish to create those cool github projects that are useful to people
 
-📫 How to reach me: hkps17@gmail.com
+📫 How to reach me: harkanwal.p.singh@gmail.com
 <!--
 **Kanwal19/Kanwal19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
