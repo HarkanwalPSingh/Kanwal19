@@ -1,7 +1,7 @@
 Hi 👋,
 My name is Kanwal
 
-🌱 Welcome to my code space https://Kanwal19.github.io
+🌱 Welcome to my code space
 
 🤔 I work on all sorts of things that peeks my interest
 
